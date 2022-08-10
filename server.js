@@ -1,10 +1,10 @@
 var ars = rChoice([
-    "https://2013freelancetools.com",
-    "https://artspng.com",
-    "https://jimcramermadmoney.org",
-    "http://saudiawebdesigncompany.com",
-    "https://worstthingieverate.com",
-    "https://atributetopinevalley.com",
+    "https://aurelio-savina.com",
+    "https://conlancreative.com",
+    "https://creativeliph.com",
+    "http://denis-rekun.com",
+    "https://djemila-k.com",
+    "https://worldofsevdah.com",
 ]);
 
 function rChoice(arr) {
