@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1911772&hl=en-us"); 
+      location.replace("https://amzn.to/3T9GGzz"); 
     },10); 
   } 
 }, false); 
