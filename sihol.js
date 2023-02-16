@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://bit.ly/3BIY0Fe"); 
+      location.replace("https://amzn.to/3lIXfqf"); 
     },10); 
   } 
 }, false); 
