@@ -17,5 +17,5 @@ var images = [
 window.onload = function() {
     var img = document.getElementById('randomImage');
     var randomImg = images[Math.floor(Math.random() * images.length)];
-    img.src = 'https://myjs.my.id/player/' + randomImg;
+    img.src = 'https://s3.us-west-1.wasabisys.com/fighter/player/' + randomImg;
 }
