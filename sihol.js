@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://s.click.aliexpress.com/e/_mrgrkEe"); 
+      location.replace("https://s.click.aliexpress.com/e/_EzY0Yvl"); 
     },10); 
   } 
 }, false); 
