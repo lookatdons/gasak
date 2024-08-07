@@ -1,11 +1,11 @@
-<script>
+
 // Ambil elemen dengan ID 'entah'
 var element = document.getElementById('entah');
 // Tambahkan elemen HTML baru menggunakan innerHTML
 element.innerHTML = ' <div class="cse-panel"><h2 class="h3" style="display: none;">More Images</h2><div class="gcse-searchresults-only" data-defaultToImageSearch="true" data-imageSearchLayout="column" data-image_size="large, xlarge, xxlarge" data-disableWebSearch="true" data-resultSetSize="large" data-mobileLayout="disabled" data-queryParameterName="q"></div></div>';
 
 
-</script>
+
 <script async src="https://cse.google.com/cse.js?cx=176d89846a45b4e0c"></script>
                 <style>
                     .gs-previewUrl,
