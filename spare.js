@@ -1,4 +1,3 @@
-"+`
 <script>
 alert('work');
 // Ambil elemen dengan ID 'entah'
@@ -65,4 +64,3 @@ element.innerHTML = ' <div class="cse-panel"><h2 class="h3" style="display: none
                     window.__gcse || (window.__gcse = {});
                     window.__gcse.searchCallbacks = { image: { rendered: imageResultsRenderedCallback } };
                 </script>
-`+"
