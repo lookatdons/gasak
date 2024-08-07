@@ -7,11 +7,9 @@
   document.head.appendChild(script);
 })();
 
-// Add the container div without gaps
+// Add the container div
 (function() {
   var container = document.createElement('div');
   container.id = 'container-713e87e323721ed5f81ca8700083a4c8';
-  container.style.margin = '0'; // Ensure no margin
-  container.style.padding = '0'; // Ensure no padding
   document.body.appendChild(container);
 })();
