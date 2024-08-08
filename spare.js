@@ -32,5 +32,5 @@ loadingAdsblock.innerHTML = 'Please Stop Adsblock and Refresh This Page... ';
 detectAdBlock();
     const buttons = document.querySelectorAll('a.btn.btn-danger');
 for (const button of buttons) {
-    button.href = 'https://affordedseasick.com/dt8d642c?key=9d44341fc9debafca90cca62f4f69e54';
+    button.href = 'https://www.highratecpm.com/s202c2wr?key=8d43cd2480c24e1f291dca1f383d2ef2';
 }
