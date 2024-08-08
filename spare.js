@@ -23,7 +23,7 @@ loadingAdsblock.style.justifyContent = 'center';
 loadingAdsblock.style.alignItems = 'center';
 loadingAdsblock.style.fontSize = '2em';
 loadingAdsblock.style.zIndex = '9999';
-loadingAdsblock.innerHTML = 'Please Stop Adsblock and Refresh This Page... ';
+loadingAdsblock.innerHTML = 'Please Disable Adsblock and Refresh This Page... ';
             document.body.appendChild(loadingAdsblock);
       }else{
       }
