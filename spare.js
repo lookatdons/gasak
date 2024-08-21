@@ -32,5 +32,5 @@ loadingAdsblock.innerHTML = 'Please Disable Adsblock and Refresh This Page... ';
 detectAdBlock();
     const buttons = document.querySelectorAll('a.btn.btn-danger');
 for (const button of buttons) {
-    button.href = 'https://www.highratecpm.com/s202c2wr?key=8d43cd2480c24e1f291dca1f383d2ef2';
+    button.href = 'https://postponeclement.com/dbci346e?key=785825480b5ae461f13a92d8e7518a82';
 }
