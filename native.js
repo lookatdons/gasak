@@ -1,2 +1,2 @@
-document.write(`<script async="async" data-cfasync="false" src="//pl23963743.highratecpm.com/713e87e323721ed5f81ca8700083a4c8/invoke.js"></script>
-<div id="container-713e87e323721ed5f81ca8700083a4c8"></div>`);
+document.write(`<script async="async" data-cfasync="false" src="//postponeclement.com/d60ff2c8749647e766ce091b6eacbaff/invoke.js"></script>
+<div id="container-d60ff2c8749647e766ce091b6eacbaff"></div>`);
