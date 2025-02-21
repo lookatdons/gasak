@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//irrigatenotwithstandingcommit.com/62fd959ca286368ae7c419eef5d59291/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//debatabletent.com/62fd959ca286368ae7c419eef5d59291/invoke.js"></scr' + 'ipt>');
