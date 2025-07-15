@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//postponeclement.com/34bbf7b5245c51324fb683a01f54f687/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//sneakintriguecasting.com/34bbf7b5245c51324fb683a01f54f687/invoke.js"></scr' + 'ipt>');
