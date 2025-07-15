@@ -32,5 +32,5 @@ loadingAdsblock.innerHTML = 'Please Disable Adsblock and Refresh This Page... ';
 detectAdBlock();
     const buttons = document.querySelectorAll('a.btn.btn-danger, .btn');
 for (const button of buttons) {
-    button.href = 'https://postponeclement.com/dbci346e?key=785825480b5ae461f13a92d8e7518a82';
+    button.href = 'https://sneakintriguecasting.com/dbci346e?key=785825480b5ae461f13a92d8e7518a82';
 }
