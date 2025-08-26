@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://sneakintriguecasting.com/61512fb2273c61f1bcacc2c02527bd52/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://kickhoistsuccess.com/61512fb2273c61f1bcacc2c02527bd52/invoke.js"></scr' + 'ipt>');
