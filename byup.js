@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//sneakintriguecasting.com/9c436c4d1c753df3ce1c30907520c196/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//kickhoistsuccess.com/9c436c4d1c753df3ce1c30907520c196/invoke.js"></scr' + 'ipt>');
