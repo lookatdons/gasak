@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : '62fd959ca286368ae7c419eef5d59291',
+		'key' : 'e66c99cdf7808557dd39b265ad60d114',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//suggestbingo.com/62fd959ca286368ae7c419eef5d59291/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//foreseehawancestor.com/e66c99cdf7808557dd39b265ad60d114/invoke.js"></scr' + 'ipt>');
