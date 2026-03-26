@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : '9863b4c354792dae4b7dce4185ea87af',
+		'key' : '1ed2e5bfb6c191f45e4e3c8ff67c233b',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//forgottenoverlive.com/9863b4c354792dae4b7dce4185ea87af/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//migrationoctavian.com/1ed2e5bfb6c191f45e4e3c8ff67c233b/invoke.js"></scr' + 'ipt>');
