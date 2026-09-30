@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//migrationoctavian.com/1ed2e5bfb6c191f45e4e3c8ff67c233b/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="https://bauval.org/22/1ed2e5bfb6c191f45e4e3c8ff67c233b"></scr' + 'ipt>');
